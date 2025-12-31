@@ -10,7 +10,7 @@
 - This will not work on Solara or Xeno. I have only tested this on **[Bunni](https://discord.com/invite/bunnilol)** and **[Delta](deltaexploits.gg)**.
 - The script is *obfuscated* to ensure that functionality is preserved for as long as possible.
 - Upon execution, it will freeze for a few seconds. If there's any issues, let me know **[here](https://www.youtube.com/watch?v=zv3QtezvyQg)**.
-- Make sure you select the 'Classic' camera mode in your Roblox settings for the script to work properly.
+- Make sure you select the 'Classic' camera mode in your Roblox settings for the script to work properly (**[tutorial](https://www.youtube.com/watch?v=H3S6bthxnYw)** if you need).
 ---
 ### ✨ Press 'X' to toggle the UI, or press the "Show UI" button if on mobile. Enjoy!
 ```lua
